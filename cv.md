@@ -81,3 +81,12 @@ screen in relation to the format, etc.
 Used Telegram API and Node.js.
 [Link to this project](https://github.com/dafen173/real-bot-ctc)
 
+## Education
+- __University:__ National Technical University of Ukraine 'Kyiv Polytechnic Institute'. Faculty of Electronics. Department of Sound Engineering and Information Registration
+
+- __Courses:__
+    - HTML Academy
+    - FreeCodeCamp
+    - Udacity
+
+
