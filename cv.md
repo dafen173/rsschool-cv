@@ -1,6 +1,7 @@
 # __Olexandr Nikandrov__
 #### Junior Front End Developer
 
+![my-photo](/my-photo2.jpg)
 
 ## Contacts
 - __Location:__ Kyiv, Ukraine
