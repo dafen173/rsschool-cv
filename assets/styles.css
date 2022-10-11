@@ -98,7 +98,7 @@ li {
   padding-bottom: 10px;
 }
 
-.table td:nth-child(2), 
+.table td:nth-child(2),
 .table td:nth-child(3) {
   color: #86898f;
 }
@@ -123,23 +123,21 @@ li {
   margin-right: 0;
 }
 
-.link-rsschool {
+/* .link-rsschool {
   display: inline-block;
   width: 80px;
   height: 60px;
   background: url(./footer-icon-rsschool.svg) center center no-repeat;
   opacity: 50%;
-}
+} */
 
-.link-github {
+.footer-link {
   display: inline-block;
-  width: 60px;
+  width: 80px;
   height: 60px;
-  background: url(./footer-icon-github.svg) center center no-repeat;
-  background-size: cover;
   opacity: 50%;
 }
 
-.link-github:hover, .link-rsschool:hover { 
+.footer-link:hover {
   opacity: 100%;
 }
